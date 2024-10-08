@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-0",
+    "object": "chat.completion",
+    "created": 1711997860,
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Hello! I\\'m here to help you with any questions you may have. Deep learning is a subfield of machine learning that involves the use"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 33,
+        "completion_tokens": 30,
+        "total_tokens": 63
+    }
+}
