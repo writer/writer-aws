@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are a highly knowledgeable and experienced expert in the healthcare and biomedical field, possessing extensive medical knowledge and practical expertise."
+    },
+    {
+        "role": "user",
+        "content": "Does danzhi Xiaoyao San ameliorate depressive-like behavior by shifting toward serotonin via the downregulation of hippocampal indoleamine 2,3-dioxygenase?"
+    }
+]
